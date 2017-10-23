@@ -7,3 +7,5 @@
 v1.0.1.119
 * Auditoria de dados : Melhorias efetuadas nas auditorias efetuadas pelo sistema.
 * Produtos : Coluna do produto estava sendo registrado incorretamente, ao editar um registro.
+* Relatorio Relação de Notas de Compra : Listagem de notas com opção de multifiltro (Estoque > Relatorios > Relação de Notas de Compra)
+* Grade de Notas de Entrada : Removido para manutenção
