@@ -10,3 +10,4 @@ v1.0.1.119
 * Relatorio Relação de Notas de Compra : Listagem de notas com opção de multifiltro (Estoque > Relatorios > Relação de Notas de Compra).
 * Grade de Notas de Entrada : Removido para manutenção.
 * Apontamento de Produtos : Adicionado a validação para não usar produto sem custo definido.
+* Pedido de Compra : Corrigido o erro, que ao finalizar o atendimento do produto, o mesmo era retirado da lista de pedidos.
