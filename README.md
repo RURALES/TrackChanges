@@ -1,6 +1,6 @@
 # RURALES ERP -  Histórico de versões (Todas as versões)
 
-Última versão : 1.0.1.119 atualizado em 23/10/2017
+Última versão : 1.0.1.119 atualizado em 26/10/2017
 
 # O que há de novo na ultima versão ?
 
@@ -11,3 +11,4 @@ v1.0.1.119
 * Grade de Notas de Entrada : Removido para manutenção.
 * Apontamento de Produtos : Adicionado a validação para não usar produto sem custo definido.
 * Pedido de Compra : Corrigido o erro, que ao finalizar o atendimento do produto, o mesmo era retirado da lista de pedidos.
+* Empréstimo de Produtos : Correção na movimentação de estoque gerada pelo empréstimo.
