@@ -1,8 +1,12 @@
 # RURALES ERP -  Histórico de versões (Todas as versões)
 
-Última versão : 1.0.1.119 atualizado em 26/10/2017
+Última versão : 1.0.1.120 atualizado em 30/10/2017
 
 # O que há de novo na ultima versão ?
+
+v1.0.1.120
+* Relatorio Extrato de conta corrente : Adicionado precisão de 4 casas decimais na exibição dos dados
+* Relatorio de Movimento de conta detalhado : Adicionado precisão de 4 casas decimais na exibição dos dados.
 
 v1.0.1.119
 * Auditoria de dados : Melhorias efetuadas nas auditorias efetuadas pelo sistema.
