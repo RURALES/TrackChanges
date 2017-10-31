@@ -5,10 +5,11 @@
 # O que há de novo na ultima versão ?
 
 v1.0.1.120
-* Relatorio Extrato de conta corrente : Adicionado precisão de 4 casas decimais na exibição dos dados
+* Relatorio Extrato de conta corrente : Adicionado precisão de 4 casas decimais na exibição dos dados.
 * Relatorio de Movimento de conta detalhado : Adicionado precisão de 4 casas decimais na exibição dos dados.
-* Contratos a Receber : Ajustes na rotina de geração do financeiro
+* Contratos a Receber : Ajustes na rotina de geração do financeiro.
 * Relatorio Custo Produção : Corrigido o calculo final por Hectare dos custos.
+* Controle de Empréstimos : Corrigido bug que impedia o lançamento de empréstimo.
 
 v1.0.1.119
 * Auditoria de dados : Melhorias efetuadas nas auditorias efetuadas pelo sistema.
