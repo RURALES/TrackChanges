@@ -10,6 +10,7 @@ v1.0.1.120
 * Contratos a Receber : Ajustes na rotina de geração do financeiro.
 * Relatorio Custo Produção : Corrigido o calculo final por Hectare dos custos.
 * Controle de Empréstimos : Corrigido bug que impedia o lançamento de empréstimo.
+* Extrato de Movimento de Produtos : Relatório adicionado ao módulo de estoque.
 
 v1.0.1.119
 * Auditoria de dados : Melhorias efetuadas nas auditorias efetuadas pelo sistema.
